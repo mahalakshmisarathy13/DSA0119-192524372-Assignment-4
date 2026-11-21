@@ -1,0 +1,19 @@
+Polymorphic raw-pointer demonstration:
+3.5
+4
+Account destroyed
+SeniorAccount destroyed; history released
+Account destroyed
+
+Slicing demonstration:
+Sliced base copy rate = 3.5
+
+Preferred ownership with unique_ptr:
+3.5
+4
+Account destroyed
+SeniorAccount destroyed; history released
+Account destroyed
+Account destroyed
+SeniorAccount destroyed; history released
+Account destroyed
