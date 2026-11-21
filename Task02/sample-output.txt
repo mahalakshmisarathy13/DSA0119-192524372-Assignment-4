@@ -1,0 +1,2 @@
+Person constructed; Student constructed; Staff constructed; TeachingAssistant constructed; Kavya ID=501 Phone=9876543210 Programme=CSE CGPA=8.7 Department=Computer Science Salary=25000
+Person constructed; Student constructed; Arun ID=502 Phone=9876500000 Fellowship=18000
