@@ -1,0 +1,23 @@
+FLEET LIST
+Bicycle CYC-101 daily rate=100.00
+Two-wheeler TN-01-BB-1234 fuel=80.00 service due=2027-01-15
+Car TN-01-CC-5678 seats=5 fuel=60.00 service due=2027-02-01
+Electric car TN-01-EE-9999 seats=5 battery level=90.00 battery capacity=50.00 kWh; service due=2027-03-01
+Electric bus TN-01-EB-2026 seats=30 battery=120.00 kWh
+
+RENTAL AND RETURN DEMONSTRATION (3 days, 1 day late)
+CYC-101 rented
+Registration: CYC-101 rental=300.00 late charge=50.00 total=350.00
+Returned
+TN-01-BB-1234 rented
+Registration: TN-01-BB-1234 rental=787.50 late charge=125.00 total=912.50
+Returned
+TN-01-CC-5678 rented
+Registration: TN-01-CC-5678 rental=3600.00 late charge=600.00 total=4200.00
+Returned
+TN-01-EE-9999 rented
+Registration: TN-01-EE-9999 rental=4900.00 late charge=750.00 total=5650.00
+Returned
+TN-01-EB-2026 rented
+Registration: TN-01-EB-2026 rental=9960.00 late charge=1500.00 total=11460.00
+Returned
