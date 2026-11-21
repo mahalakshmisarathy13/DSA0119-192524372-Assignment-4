@@ -1,0 +1,4 @@
+Anita (ID 101): Professor pay = 79000.00
+Bala (ID 102): Lab assistant pay = 42600.00
+Charan (ID 103): Guest faculty pay = 30000.00
+Alternative switch-based professor pay = 79000.00
