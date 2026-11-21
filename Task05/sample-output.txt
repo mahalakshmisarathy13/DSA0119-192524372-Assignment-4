@@ -1,0 +1,6 @@
+Direct object total = 50.00
+Pointer access total = 70.00
+Reference access total = 63.00
+Dynamic object total = 500.00
+Required chained total = 324.00
+Highest cart total = 250.00 at index 1
