@@ -1,0 +1,3 @@
+Person constructed; Address constructed; Course constructed; Student constructed; 
+192311001 Kavya (19) Salem-636001 Course=OOP with C++
+Leaving scope; ~Student; ~Course; ~Address; ~Person; 
