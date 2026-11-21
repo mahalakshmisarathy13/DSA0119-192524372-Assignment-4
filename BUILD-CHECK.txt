@@ -1,0 +1,8 @@
+Local build check with g++ -std=c++17 -Wall -Wextra
+
+Task01: PASS
+Task02: PASS
+Task03: PASS
+Task04: PASS
+Task05: PASS
+Task06: PASS
